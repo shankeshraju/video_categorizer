@@ -1,0 +1,8 @@
+streamlit
+streamlit_extras
+pathlib
+pillow
+torch
+opencv-python
+openai-clip
+sqlite3
