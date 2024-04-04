@@ -1,4 +1,3 @@
-libgl1
 streamlit
 streamlit_extras
 pathlib
